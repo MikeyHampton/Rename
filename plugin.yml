@@ -1,0 +1,6 @@
+name: Rename
+main: Main\Main
+api: [3.0.0, 3.3.2, 4.0.0]
+version: 1.0.0
+author: MikeyHampton
+load: POSTWORLD
